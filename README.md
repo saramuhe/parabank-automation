@@ -86,9 +86,9 @@ Cada sección de la página tiene su propia clase UI con los Target locators.
 
 Se implementaron **drivers personalizados** para ejecutar los tests en **Chrome, Firefox y Edge**:
 
-- `CustomChromeDriver`
-- `CustomFirefoxDriver`
-- `CustomEdgeDriver`
+- `DriverChrome`
+- `DriverFirefox`
+- `DriverEdge`
 
 Cada driver abre el navegador en **modo incógnito/privado** y con notificaciones bloqueadas.
 
