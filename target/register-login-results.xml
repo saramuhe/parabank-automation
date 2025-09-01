@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="14.558" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Registro y login plataforma Parabank" name="Crear cuenta y loguearse exitosamente" time="14.295">
+<system-out><![CDATA[
+Given que el usuario ingresa a la pagina de Parabank........................passed
+When el usuario se registra con datos validos...............................passed
+And el usuario inicia sesion con las credenciales registradas...............passed
+Then el usuario ingresa correctamente a la plataforma Parabank..............passed
+]]></system-out>
+</testcase>
+</testsuite>
